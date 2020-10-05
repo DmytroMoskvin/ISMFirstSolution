@@ -1,0 +1,6 @@
+C:\Учёба\ISM\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\ISMSecondConsoleProject.exe.config
+C:\Учёба\ISM\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\ISMSecondConsoleProject.exe
+C:\Учёба\ISM\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\ISMSecondConsoleProject.pdb
+C:\Учёба\ISM\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.csproj.CoreCompileInputs.cache
+C:\Учёба\ISM\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.exe
+C:\Учёба\ISM\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.pdb
